@@ -1,8 +1,12 @@
 a.{
-  bgcolor = blue;
-  alight = center;
+  background-color: yellow;
+  justify-content: center;
+  color: blue;
+  font-family: Arial, sans-serif;
 }
 o.{
-  bgcolor = yellow;
-  alight = center;
+  background-color: blue;
+  justify-content: center;
+  color: yellow;
+  font-family: Arial, sans-serif;
 }
